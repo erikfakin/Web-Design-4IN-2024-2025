@@ -1,0 +1,21 @@
+body{
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.header__link{
+    color: #aaaaaa;
+    text-decoration: none;
+    margin-left: 50px;
+    text-transform: lowercase;
+}
+.header__links{
+
+}
