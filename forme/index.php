@@ -33,6 +33,7 @@
 
         <label for="descrizione">Descrizione:</label>
         <textarea name="descrizione"></textarea>
+        <button>Invia</button>
     </form>
     
 </body>
